@@ -1,0 +1,73 @@
+,total_registros,valores_unicos,moda,faltantes_n,faltantes_pct
+fecha_firma_ci_cardiomom,587,132,2025-03-26 00:00:00,21,3.453947368421053
+fecha_firma_ci_muestbio,587,132,2025-03-26 00:00:00,21,3.453947368421053
+fecha_nac,608,581,1986-12-23 00:00:00,0,0.0
+etnia,603,6,0,5,0.8223684210526315
+concepcion,606,4,0,2,0.3289473684210526
+parto_previo_mayor37_pre,606,2,0,2,0.3289473684210526
+parto_previo_menor37_pre,608,2,0,0,0.0
+aborto_menor20,608,2,0,0,0.0
+ant_cir,608,2,0,0,0.0
+ant_peg,608,2,0,0,0.0
+ant_obito,608,2,0,0,0.0
+ant_pe,608,2,0,0,0.0
+ant_hellp,608,2,0,0,0.0
+ant_cesarea,608,2,0,0,0.0
+ant_diabetes_pregest,608,2,0,0,0.0
+hta_pregest,608,2,0,0,0.0
+sindr_antifosfolipido,608,2,0,0,0.0
+enf_autoinm,608,2,0,0,0.0
+fuma,608,2,0,0,0.0
+alcohol,608,2,0,0,0.0
+drogas,608,2,0,0,0.0
+fur_pre,608,495,2019-04-11 00:00:00,0,0.0
+fecha_eco_1tri,538,352,2019-01-16 00:00:00,70,11.513157894736842
+plgf_1tri,590,2,0,18,2.9605263157894735
+deter_sflt1_plgf_gest,591,2,1,17,2.7960526315789473
+fecha_parto,604,496,2019-08-04 00:00:00,4,0.6578947368421052
+ini_trabajo_parto_espontaneo,604,2,0,4,0.6578947368421052
+hemorragia_pospart_transfusion,607,2,0,1,0.1644736842105263
+edema_agudo_pulmon,608,2,0,0,0.0
+hipertension_gest,608,2,0,0,0.0
+pe,608,2,0,0,0.0
+sd_hellp,608,2,0,0,0.0
+desprendimiento_placenta,607,2,0,1,0.1644736842105263
+hemocerebral_ictus,608,2,0,0,0.0
+trombosis_venosa_prof,608,2,0,0,0.0
+uci_materna_ucoi,608,2,0,0,0.0
+covid,591,2,0,17,2.7960526315789473
+cir,608,2,0,0,0.0
+peg,607,2,0,1,0.1644736842105263
+diabetes_gest,600,2,0,8,1.3157894736842104
+colestasis_intrahepatica,607,2,0,1,0.1644736842105263
+fecha_exploracion,586,132,2025-03-26 00:00:00,22,3.618421052631579
+parto_mayor37_post,606,2,1,2,0.3289473684210526
+ant_fam_enfcardiovasc,580,3,0,28,4.605263157894736
+parto_menor37_post,608,2,0,0,0.0
+aborto_menor20_post,603,2,0,5,0.8223684210526315
+ant_cir_post,601,2,0,7,1.151315789473684
+ant_peg_post,600,2,0,8,1.3157894736842104
+ant_obito_post,608,2,0,0,0.0
+ant_pe_post,603,2,0,5,0.8223684210526315
+ant_hellp_post,608,2,0,0,0.0
+lactancia_materna,581,2,1,27,4.440789473684211
+lactancia_materna_actual,539,2,0,69,11.348684210526317
+ant_cesarea_post,593,2,0,15,2.4671052631578947
+hta_cronica,581,2,0,27,4.440789473684211
+ant_infarto_ictus,582,2,0,26,4.276315789473684
+diabetes_mellitus_1_2,582,2,0,26,4.276315789473684
+sindr_antifosfolipido_post,581,2,0,27,4.440789473684211
+enf_autoinm_post,582,2,0,26,4.276315789473684
+dislipemia,581,2,0,27,4.440789473684211
+menopausia,578,2,0,30,4.934210526315789
+fur_post,512,337,2025-01-01 00:00:00,96,15.789473684210526
+anticonceptivos_orales,581,2,1,27,4.440789473684211
+enf_renal_cronica,608,2,0,0,0.0
+alcohol_post,608,2,0,0,0.0
+drogas_post,608,2,0,0,0.0
+valvula_aortica,502,3,0,106,17.434210526315788
+valvulopatia,494,2,0,114,18.75
+calidad_del_examen,506,3,Adecuada,102,16.776315789473685
+complete,608,2,Complete,0,0.0
+muestra_pelo,580,2,0,28,4.605263157894736
+tomo_durante_gest,604,6,3,4,0.6578947368421052
